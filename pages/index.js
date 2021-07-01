@@ -16,6 +16,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
+          <a href={"https://github.com/avoerman/site.git"}>https://github.com/avoerman/site.git</a>
       </footer>
     </div>
   )
